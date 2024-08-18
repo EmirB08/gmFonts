@@ -1,0 +1,1 @@
+Just a fix to gmFonts until the addon author updates it.
